@@ -81,8 +81,8 @@ const questions = {
         },
         {
             question: "What is attar?",
-            options: ["Perfumed Juice", "Perfumed Oil", "Seed Oil", "Scented Water"],
-            answer: "Perfumed Oil" // Leave blank
+            options: ["Perfumed Juice", "Scented Oil", "Seed Oil", "Scented Water"],
+            answer: "Scented Oil" // Leave blank
         },
         {
             question: "Attar helps -",
